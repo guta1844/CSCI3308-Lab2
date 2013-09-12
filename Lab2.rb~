@@ -1,5 +1,3 @@
-github link: https://github.com/guta1844/CSCI3308-Lab2/
-
 # Part1: Hello World
 puts "===Problem 1==="
 class HelloWorldClass
